@@ -1,0 +1,18 @@
+body {
+  background-color:white;
+}
+
+.sidebar {
+  background-color: #28104E;
+  height: 100%;
+  width: 370px;
+  position: fixed;
+}
+
+.sidebar-icons {
+  display: flex;
+}
+
+.iconify {
+  padding-bottom: 4px;
+}
